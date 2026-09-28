@@ -22,4 +22,4 @@ The dataset contains information about medical resources across Lebanese towns, 
 
 The public Streamlit application can be accessed here:
 
-App link will be added after deployment.
+https://medical-resources-app-eedzxjmt2xcuk2stm9hdpg.streamlit.app/ 
